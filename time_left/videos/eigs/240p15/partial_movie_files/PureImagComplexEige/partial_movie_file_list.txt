@@ -1,0 +1,5 @@
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/240p15/partial_movie_files/PureImagComplexEige/00000.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/240p15/partial_movie_files/PureImagComplexEige/00001.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/240p15/partial_movie_files/PureImagComplexEige/00002.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/240p15/partial_movie_files/PureImagComplexEige/00003.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/240p15/partial_movie_files/PureImagComplexEige/00004.mp4'

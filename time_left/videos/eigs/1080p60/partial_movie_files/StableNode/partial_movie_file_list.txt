@@ -1,0 +1,5 @@
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/1080p60/partial_movie_files/StableNode/00000.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/1080p60/partial_movie_files/StableNode/00001.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/1080p60/partial_movie_files/StableNode/00002.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/1080p60/partial_movie_files/StableNode/00003.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/1080p60/partial_movie_files/StableNode/00004.mp4'

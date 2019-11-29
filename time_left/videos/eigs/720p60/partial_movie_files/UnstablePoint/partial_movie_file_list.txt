@@ -1,0 +1,5 @@
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/720p60/partial_movie_files/UnstablePoint/00000.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/720p60/partial_movie_files/UnstablePoint/00001.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/720p60/partial_movie_files/UnstablePoint/00002.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/720p60/partial_movie_files/UnstablePoint/00003.mp4'
+file '/home/azazel/Documents/linear-algebra/phase-plane-analysis/videos/eigs/720p60/partial_movie_files/UnstablePoint/00004.mp4'
