@@ -1,3 +1,3 @@
- # scipy2019
+ # Two-Hour workshop files
  
- File for Scipy India Conference workshop (2019)
+ File for Scipy India workshop (2019) & PyConf Hyderabad Workshop
